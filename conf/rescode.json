@@ -1,0 +1,12 @@
+{
+  "access_token_expired": 201,
+  "login_error": 202,
+  "login_ok": 203,
+  "select_ok": 204,
+  "add_ok": 205,
+  "delete_ok": 206,
+  "modify_ok": 207,
+  "select_error": 208,
+  "register_ok": 209,
+  "register_pending": 210
+}

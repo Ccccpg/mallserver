@@ -1,0 +1,6 @@
+{
+  "application": 1,
+  "loginExpired": 2,
+  "loginSucess": 3,
+  "default": 4
+}
